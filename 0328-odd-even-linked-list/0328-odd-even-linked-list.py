@@ -8,11 +8,13 @@ class Solution:
         if  not head or not head.next or not head.next.next:
             return head
 
-        odd_tail = ListNode(head.val)
+        # odd_tail = ListNode(head.val)
+        odd_tail = head
         odd = head
         odd_head = odd_tail
 
-        even_tail = ListNode(head.next.val)
+        # even_tail = ListNode(head.next.val)
+        even_tail = head.next
         even = head.next
         even_head = even_tail
 
