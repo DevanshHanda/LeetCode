@@ -15,11 +15,13 @@ Collection of LeetCode problems
 # Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/DevanshHanda/LeetCode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/DevanshHanda/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1044-find-common-characters](https://github.com/DevanshHanda/LeetCode/tree/master/1044-find-common-characters) |
 # Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/DevanshHanda/LeetCode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/DevanshHanda/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 # Hash Table
 |  |
