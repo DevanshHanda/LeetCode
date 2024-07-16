@@ -51,4 +51,20 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/DevanshHanda/LeetCode/tree/master/1642-water-bottles) |
+## Array
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Hash Table
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
