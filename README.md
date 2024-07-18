@@ -78,4 +78,8 @@ Collection of LeetCode problems
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DevanshHanda/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0806-domino-and-tromino-tiling](https://github.com/DevanshHanda/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 <!---LeetCode Topics End-->
