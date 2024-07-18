@@ -46,6 +46,7 @@ Collection of LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DevanshHanda/LeetCode/tree/master/0062-unique-paths) |
 | [1642-water-bottles](https://github.com/DevanshHanda/LeetCode/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
@@ -81,5 +82,10 @@ Collection of LeetCode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DevanshHanda/LeetCode/tree/master/0062-unique-paths) |
 | [0806-domino-and-tromino-tiling](https://github.com/DevanshHanda/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DevanshHanda/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
