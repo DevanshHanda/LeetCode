@@ -58,6 +58,7 @@ Collection of LeetCode problems
 | [0136-single-number](https://github.com/DevanshHanda/LeetCode/tree/master/0136-single-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevanshHanda/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DevanshHanda/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -103,6 +104,7 @@ Collection of LeetCode problems
 | [0072-edit-distance](https://github.com/DevanshHanda/LeetCode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1250-longest-common-subsequence](https://github.com/DevanshHanda/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
 ## Matrix
 |  |
 | ------- |
@@ -127,4 +129,17 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
+## Binary Search
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
+## Sorting
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
