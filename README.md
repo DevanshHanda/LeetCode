@@ -57,6 +57,7 @@ Collection of LeetCode problems
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DevanshHanda/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
@@ -98,4 +99,9 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DevanshHanda/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Greedy
+|  |
+| ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
