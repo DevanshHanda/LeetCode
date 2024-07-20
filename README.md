@@ -86,6 +86,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DevanshHanda/LeetCode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/DevanshHanda/LeetCode/tree/master/0072-edit-distance) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevanshHanda/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/DevanshHanda/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1250-longest-common-subsequence](https://github.com/DevanshHanda/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -96,6 +97,7 @@ Collection of LeetCode problems
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/DevanshHanda/LeetCode/tree/master/0072-edit-distance) |
 | [1250-longest-common-subsequence](https://github.com/DevanshHanda/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Matrix
 |  |
