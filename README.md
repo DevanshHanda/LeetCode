@@ -55,6 +55,7 @@ Collection of LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/DevanshHanda/LeetCode/tree/master/0136-single-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevanshHanda/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DevanshHanda/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -113,5 +114,6 @@ Collection of LeetCode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/DevanshHanda/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/DevanshHanda/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
