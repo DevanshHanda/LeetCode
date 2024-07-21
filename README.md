@@ -47,6 +47,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DevanshHanda/LeetCode/tree/master/0062-unique-paths) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/DevanshHanda/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/DevanshHanda/LeetCode/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
@@ -109,6 +110,7 @@ Collection of LeetCode problems
 | ------- |
 | [0072-edit-distance](https://github.com/DevanshHanda/LeetCode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/DevanshHanda/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/DevanshHanda/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1894-merge-strings-alternately](https://github.com/DevanshHanda/LeetCode/tree/master/1894-merge-strings-alternately) |
