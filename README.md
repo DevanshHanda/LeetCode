@@ -56,6 +56,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DevanshHanda/LeetCode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/DevanshHanda/LeetCode/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/DevanshHanda/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevanshHanda/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevanshHanda/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -175,4 +176,8 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/DevanshHanda/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/DevanshHanda/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
