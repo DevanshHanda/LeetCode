@@ -112,6 +112,7 @@ Collection of LeetCode problems
 | ------- |
 | [0072-edit-distance](https://github.com/DevanshHanda/LeetCode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0345-reverse-vowels-of-a-string](https://github.com/DevanshHanda/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DevanshHanda/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/DevanshHanda/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -186,5 +187,6 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/DevanshHanda/LeetCode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/DevanshHanda/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/DevanshHanda/LeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
