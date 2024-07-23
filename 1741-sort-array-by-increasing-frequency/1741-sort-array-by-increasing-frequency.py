@@ -22,5 +22,5 @@ class Solution:
         for i in l:
             for j in i[1]:
                 t+=[j]*i[0]
-        print(t)
+        # print(t)
         return t
