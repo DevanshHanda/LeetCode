@@ -56,6 +56,7 @@ Collection of LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DevanshHanda/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/DevanshHanda/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/DevanshHanda/LeetCode/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/DevanshHanda/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -157,6 +158,7 @@ Collection of LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DevanshHanda/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/DevanshHanda/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevanshHanda/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -190,6 +192,7 @@ Collection of LeetCode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DevanshHanda/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/DevanshHanda/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DevanshHanda/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/DevanshHanda/LeetCode/tree/master/1894-merge-strings-alternately) |
