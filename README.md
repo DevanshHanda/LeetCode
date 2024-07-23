@@ -60,6 +60,7 @@ Collection of LeetCode problems
 | [0027-remove-element](https://github.com/DevanshHanda/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DevanshHanda/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DevanshHanda/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DevanshHanda/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/DevanshHanda/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DevanshHanda/LeetCode/tree/master/0283-move-zeroes) |
@@ -107,6 +108,7 @@ Collection of LeetCode problems
 | ------- |
 | [0062-unique-paths](https://github.com/DevanshHanda/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/DevanshHanda/LeetCode/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DevanshHanda/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/DevanshHanda/LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/DevanshHanda/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevanshHanda/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
