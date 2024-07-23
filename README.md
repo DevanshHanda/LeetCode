@@ -69,6 +69,7 @@ Collection of LeetCode problems
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DevanshHanda/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DevanshHanda/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/DevanshHanda/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/DevanshHanda/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/DevanshHanda/LeetCode/tree/master/2502-sort-the-people) |
@@ -77,6 +78,7 @@ Collection of LeetCode problems
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/DevanshHanda/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/DevanshHanda/LeetCode/tree/master/2502-sort-the-people) |
 ## Tree
@@ -162,6 +164,7 @@ Collection of LeetCode problems
 | [0435-non-overlapping-intervals](https://github.com/DevanshHanda/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevanshHanda/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/DevanshHanda/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/DevanshHanda/LeetCode/tree/master/2502-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
