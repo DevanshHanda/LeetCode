@@ -71,6 +71,7 @@ Collection of LeetCode problems
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevanshHanda/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/DevanshHanda/LeetCode/tree/master/0739-daily-temperatures) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1333-sort-the-jumbled-numbers](https://github.com/DevanshHanda/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DevanshHanda/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DevanshHanda/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -172,6 +173,7 @@ Collection of LeetCode problems
 | [0088-merge-sorted-array](https://github.com/DevanshHanda/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/DevanshHanda/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevanshHanda/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1333-sort-the-jumbled-numbers](https://github.com/DevanshHanda/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DevanshHanda/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/DevanshHanda/LeetCode/tree/master/2502-sort-the-people) |
