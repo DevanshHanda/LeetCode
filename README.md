@@ -83,6 +83,7 @@ Collection of LeetCode problems
 | [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/DevanshHanda/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/DevanshHanda/LeetCode/tree/master/2502-sort-the-people) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/DevanshHanda/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Collection of LeetCode problems
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1894-merge-strings-alternately](https://github.com/DevanshHanda/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2502-sort-the-people](https://github.com/DevanshHanda/LeetCode/tree/master/2502-sort-the-people) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/DevanshHanda/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Matrix
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/DevanshHanda/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/DevanshHanda/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -242,4 +245,8 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/DevanshHanda/LeetCode/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/DevanshHanda/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
