@@ -220,6 +220,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/DevanshHanda/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/DevanshHanda/LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1916-find-center-of-star-graph](https://github.com/DevanshHanda/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/DevanshHanda/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DevanshHanda/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
