@@ -95,18 +95,21 @@ Collection of LeetCode problems
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DevanshHanda/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DevanshHanda/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DevanshHanda/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Dynamic Programming
@@ -249,4 +252,8 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DevanshHanda/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
