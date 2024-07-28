@@ -116,6 +116,7 @@ Collection of LeetCode problems
 | [0098-validate-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/DevanshHanda/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DevanshHanda/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Dynamic Programming
@@ -218,6 +219,7 @@ Collection of LeetCode problems
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/DevanshHanda/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1916-find-center-of-star-graph](https://github.com/DevanshHanda/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/DevanshHanda/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DevanshHanda/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -264,4 +266,12 @@ Collection of LeetCode problems
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0099-recover-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/DevanshHanda/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/DevanshHanda/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
