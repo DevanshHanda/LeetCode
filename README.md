@@ -146,6 +146,7 @@ Collection of LeetCode problems
 | [1146-greatest-common-divisor-of-strings](https://github.com/DevanshHanda/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/DevanshHanda/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1660-thousand-separator](https://github.com/DevanshHanda/LeetCode/tree/master/1660-thousand-separator) |
 | [1894-merge-strings-alternately](https://github.com/DevanshHanda/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2502-sort-the-people](https://github.com/DevanshHanda/LeetCode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DevanshHanda/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
