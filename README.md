@@ -96,6 +96,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DevanshHanda/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -103,6 +104,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DevanshHanda/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -110,6 +112,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/DevanshHanda/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Dynamic Programming
@@ -256,4 +259,5 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
