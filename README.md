@@ -66,6 +66,7 @@ Collection of LeetCode problems
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/DevanshHanda/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/DevanshHanda/LeetCode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/DevanshHanda/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/DevanshHanda/LeetCode/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/DevanshHanda/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevanshHanda/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -193,6 +194,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DevanshHanda/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/DevanshHanda/LeetCode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/DevanshHanda/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevanshHanda/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-sort-an-array](https://github.com/DevanshHanda/LeetCode/tree/master/0948-sort-an-array) |
@@ -260,6 +262,7 @@ Collection of LeetCode problems
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/DevanshHanda/LeetCode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/DevanshHanda/LeetCode/tree/master/0948-sort-an-array) |
 ## Shortest Path
 |  |
