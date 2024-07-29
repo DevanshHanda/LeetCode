@@ -78,6 +78,7 @@ Collection of LeetCode problems
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DevanshHanda/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DevanshHanda/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/DevanshHanda/LeetCode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DevanshHanda/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -276,4 +277,8 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/DevanshHanda/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+## Enumeration
+|  |
+| ------- |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/DevanshHanda/LeetCode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 <!---LeetCode Topics End-->
