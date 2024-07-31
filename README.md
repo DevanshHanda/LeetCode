@@ -74,6 +74,7 @@ Collection of LeetCode problems
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevanshHanda/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/DevanshHanda/LeetCode/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/DevanshHanda/LeetCode/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/DevanshHanda/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/DevanshHanda/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -134,6 +135,7 @@ Collection of LeetCode problems
 | [0435-non-overlapping-intervals](https://github.com/DevanshHanda/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevanshHanda/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/DevanshHanda/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [1196-filling-bookcase-shelves](https://github.com/DevanshHanda/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/DevanshHanda/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
