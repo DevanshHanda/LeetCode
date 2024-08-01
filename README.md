@@ -67,6 +67,7 @@ Collection of LeetCode problems
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/DevanshHanda/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/DevanshHanda/LeetCode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/DevanshHanda/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/DevanshHanda/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/DevanshHanda/LeetCode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DevanshHanda/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -297,4 +298,8 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DevanshHanda/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/DevanshHanda/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
