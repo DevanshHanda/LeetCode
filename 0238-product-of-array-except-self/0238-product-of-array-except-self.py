@@ -1,20 +1,16 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         if nums.count(0)>1:
-            return len(nums)*[0]
-        c=1
-        if nums.count(0)==1:
-            for i in nums:
-                if i!=0:
-                    c*=i
-            d = nums.index(0)
-            x = len(nums)*[0]
-            x[d] = c
-            return x
-
+            return [0]*len(nums)
+        
+        t=1
         for i in nums:
             if i!=0:
-                c*=i
+                t*=i
+
+        if 0 in nums:
+            ind = nums.index(0)
+            return [0]*ind+[int(t)]+[0]*(len(nums)-ind-1)
+        else:
+            return [int(t/i) for i in nums]
         
-        x = [int(c/i) for i in nums]
-        return x
