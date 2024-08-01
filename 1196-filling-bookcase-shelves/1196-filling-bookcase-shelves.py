@@ -26,18 +26,19 @@
 
 #         return minHeights[len(books)]
 
+
 class Solution:
     def minHeightShelves(self, books: List[List[int]], shelfWidth: int) -> int:
         n = len(books)
-        dp = [0] * (n+1)
-        dp[n-1] = books[n-1][1]
-        for i in range(n-2, -1, -1):
+        dp = [0] * (n + 1)
+        dp[n - 1] = books[n - 1][1]
+        for i in range(n - 2, -1, -1):
             curr_w, curr_h = books[i]
-            dp[i] = dp[i+1] + curr_h
-            for j in range(i+1, n):
+            dp[i] = dp[i + 1] + curr_h
+            for j in range(i + 1, n):
                 curr_h = max(curr_h, books[j][1])
                 curr_w += books[j][0]
                 if curr_w > shelfWidth:
                     break
-                dp[i] = min(dp[i], dp[j+1]+curr_h)
+                dp[i] = min(dp[i], dp[j + 1] + curr_h)
         return dp[0]
