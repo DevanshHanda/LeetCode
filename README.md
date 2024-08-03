@@ -83,6 +83,7 @@ Collection of LeetCode problems
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DevanshHanda/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DevanshHanda/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/DevanshHanda/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/DevanshHanda/LeetCode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DevanshHanda/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -97,6 +98,7 @@ Collection of LeetCode problems
 | [0208-implement-trie-prefix-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DevanshHanda/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/DevanshHanda/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DevanshHanda/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/DevanshHanda/LeetCode/tree/master/2502-sort-the-people) |
@@ -209,6 +211,7 @@ Collection of LeetCode problems
 | [0948-sort-an-array](https://github.com/DevanshHanda/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/DevanshHanda/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/DevanshHanda/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DevanshHanda/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/DevanshHanda/LeetCode/tree/master/2502-sort-the-people) |
 ## Heap (Priority Queue)
