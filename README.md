@@ -84,6 +84,7 @@ Collection of LeetCode problems
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DevanshHanda/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DevanshHanda/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/DevanshHanda/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/DevanshHanda/LeetCode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DevanshHanda/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -201,6 +202,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -212,6 +214,7 @@ Collection of LeetCode problems
 | [1333-sort-the-jumbled-numbers](https://github.com/DevanshHanda/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/DevanshHanda/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DevanshHanda/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/DevanshHanda/LeetCode/tree/master/2502-sort-the-people) |
 ## Heap (Priority Queue)
@@ -254,6 +257,7 @@ Collection of LeetCode problems
 | [0189-rotate-array](https://github.com/DevanshHanda/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DevanshHanda/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DevanshHanda/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/DevanshHanda/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
