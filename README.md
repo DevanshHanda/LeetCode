@@ -46,6 +46,7 @@ Collection of LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/DevanshHanda/LeetCode/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/DevanshHanda/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/DevanshHanda/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DevanshHanda/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -100,6 +101,7 @@ Collection of LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/DevanshHanda/LeetCode/tree/master/0012-integer-to-roman) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DevanshHanda/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -158,6 +160,7 @@ Collection of LeetCode problems
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/DevanshHanda/LeetCode/tree/master/0012-integer-to-roman) |
 | [0072-edit-distance](https://github.com/DevanshHanda/LeetCode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DevanshHanda/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
