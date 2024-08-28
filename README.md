@@ -161,6 +161,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/DevanshHanda/LeetCode/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/DevanshHanda/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/DevanshHanda/LeetCode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DevanshHanda/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
