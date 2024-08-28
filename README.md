@@ -59,6 +59,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/DevanshHanda/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/DevanshHanda/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DevanshHanda/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -137,6 +138,7 @@ Collection of LeetCode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DevanshHanda/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DevanshHanda/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/DevanshHanda/LeetCode/tree/master/0062-unique-paths) |
@@ -232,11 +234,13 @@ Collection of LeetCode problems
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DevanshHanda/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/DevanshHanda/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/DevanshHanda/LeetCode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DevanshHanda/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/DevanshHanda/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/DevanshHanda/LeetCode/tree/master/0937-online-stock-span) |
 ## Data Stream
@@ -259,6 +263,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/DevanshHanda/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/DevanshHanda/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DevanshHanda/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/DevanshHanda/LeetCode/tree/master/0189-rotate-array) |
