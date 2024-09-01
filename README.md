@@ -56,6 +56,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/DevanshHanda/LeetCode/tree/master/1642-water-bottles) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/DevanshHanda/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Collection of LeetCode problems
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/DevanshHanda/LeetCode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DevanshHanda/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/DevanshHanda/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/DevanshHanda/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DevanshHanda/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/DevanshHanda/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -183,6 +185,7 @@ Collection of LeetCode problems
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DevanshHanda/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/DevanshHanda/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/DevanshHanda/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Greedy
 |  |
