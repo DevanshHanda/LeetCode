@@ -73,6 +73,7 @@ Collection of LeetCode problems
 | [0134-gas-station](https://github.com/DevanshHanda/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/DevanshHanda/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/DevanshHanda/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevanshHanda/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DevanshHanda/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/DevanshHanda/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/DevanshHanda/LeetCode/tree/master/0274-h-index) |
@@ -228,6 +229,7 @@ Collection of LeetCode problems
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevanshHanda/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
@@ -285,6 +287,7 @@ Collection of LeetCode problems
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DevanshHanda/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/DevanshHanda/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevanshHanda/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DevanshHanda/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DevanshHanda/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DevanshHanda/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
