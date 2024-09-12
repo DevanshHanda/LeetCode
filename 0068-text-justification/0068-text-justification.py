@@ -22,8 +22,6 @@ class Solution:
             sentence = begining + avg_space + ending
             return sentence
 
-        # def lend()
-
         wordslen,cur=0,0
         ans = []
         for i,v in enumerate(words):
