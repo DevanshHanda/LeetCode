@@ -55,6 +55,7 @@ Collection of LeetCode problems
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/DevanshHanda/LeetCode/tree/master/0068-text-justification) |
 | [1642-water-bottles](https://github.com/DevanshHanda/LeetCode/tree/master/1642-water-bottles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DevanshHanda/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Array
@@ -64,6 +65,7 @@ Collection of LeetCode problems
 | [0042-trapping-rain-water](https://github.com/DevanshHanda/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DevanshHanda/LeetCode/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/DevanshHanda/LeetCode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DevanshHanda/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevanshHanda/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -168,6 +170,7 @@ Collection of LeetCode problems
 | [0012-integer-to-roman](https://github.com/DevanshHanda/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/DevanshHanda/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/DevanshHanda/LeetCode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/DevanshHanda/LeetCode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/DevanshHanda/LeetCode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/DevanshHanda/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
