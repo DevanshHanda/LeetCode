@@ -64,6 +64,7 @@ Collection of LeetCode problems
 | [0027-remove-element](https://github.com/DevanshHanda/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/DevanshHanda/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/DevanshHanda/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DevanshHanda/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/DevanshHanda/LeetCode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -149,6 +150,7 @@ Collection of LeetCode problems
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DevanshHanda/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/DevanshHanda/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DevanshHanda/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/DevanshHanda/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/DevanshHanda/LeetCode/tree/master/0072-edit-distance) |
@@ -296,6 +298,7 @@ Collection of LeetCode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DevanshHanda/LeetCode/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/DevanshHanda/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
