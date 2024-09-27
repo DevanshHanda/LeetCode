@@ -61,6 +61,7 @@ Collection of LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DevanshHanda/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/DevanshHanda/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/DevanshHanda/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0045-jump-game-ii) |
@@ -108,6 +109,7 @@ Collection of LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DevanshHanda/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/DevanshHanda/LeetCode/tree/master/0012-integer-to-roman) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DevanshHanda/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
