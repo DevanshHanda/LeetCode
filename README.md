@@ -62,6 +62,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevanshHanda/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DevanshHanda/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DevanshHanda/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/DevanshHanda/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0045-jump-game-ii) |
@@ -286,6 +287,7 @@ Collection of LeetCode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DevanshHanda/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DevanshHanda/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/DevanshHanda/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
