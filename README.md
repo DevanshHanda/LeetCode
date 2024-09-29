@@ -77,6 +77,7 @@ Collection of LeetCode problems
 | [0135-candy](https://github.com/DevanshHanda/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/DevanshHanda/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevanshHanda/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/DevanshHanda/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DevanshHanda/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/DevanshHanda/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/DevanshHanda/LeetCode/tree/master/0274-h-index) |
@@ -112,6 +113,7 @@ Collection of LeetCode problems
 | ------- |
 | [0001-two-sum](https://github.com/DevanshHanda/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/DevanshHanda/LeetCode/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/DevanshHanda/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DevanshHanda/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DevanshHanda/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -241,6 +243,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DevanshHanda/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/DevanshHanda/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/DevanshHanda/LeetCode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/DevanshHanda/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevanshHanda/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -303,6 +306,7 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DevanshHanda/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/DevanshHanda/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/DevanshHanda/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -319,6 +323,7 @@ Collection of LeetCode problems
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DevanshHanda/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/DevanshHanda/LeetCode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/DevanshHanda/LeetCode/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DevanshHanda/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
