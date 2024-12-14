@@ -13,11 +13,11 @@ class Solution:
             
             # Ensure the window is valid
             while sorted_window[-1] - sorted_window[0] > 2:
-                # Remove the leftmost element from the window
+                # Remove the leftmost element from the 
                 sorted_window.remove(nums[start])
                 start += 1
-            
+
             # Count valid subarrays ending at 'end'
             total_subarrays += end - start + 1
-        
+            
         return total_subarrays
