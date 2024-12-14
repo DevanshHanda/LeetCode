@@ -107,6 +107,7 @@ Collection of LeetCode problems
 | [2472-build-a-matrix-with-conditions](https://github.com/DevanshHanda/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/DevanshHanda/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/DevanshHanda/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2868-continuous-subarrays](https://github.com/DevanshHanda/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DevanshHanda/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
@@ -259,6 +260,7 @@ Collection of LeetCode problems
 | ------- |
 | [0948-sort-an-array](https://github.com/DevanshHanda/LeetCode/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/DevanshHanda/LeetCode/tree/master/1397-search-suggestions-system) |
+| [2868-continuous-subarrays](https://github.com/DevanshHanda/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -357,4 +359,20 @@ Collection of LeetCode problems
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DevanshHanda/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/DevanshHanda/LeetCode/tree/master/2868-continuous-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/DevanshHanda/LeetCode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/DevanshHanda/LeetCode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/DevanshHanda/LeetCode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
