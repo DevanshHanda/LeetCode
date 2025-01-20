@@ -69,6 +69,7 @@ Collection of LeetCode problems
 | [0053-maximum-subarray](https://github.com/DevanshHanda/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DevanshHanda/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/DevanshHanda/LeetCode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/DevanshHanda/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DevanshHanda/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DevanshHanda/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevanshHanda/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -114,6 +115,7 @@ Collection of LeetCode problems
 | ------- |
 | [0001-two-sum](https://github.com/DevanshHanda/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/DevanshHanda/LeetCode/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/DevanshHanda/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/DevanshHanda/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevanshHanda/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DevanshHanda/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -198,6 +200,7 @@ Collection of LeetCode problems
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/DevanshHanda/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DevanshHanda/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/DevanshHanda/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DevanshHanda/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
